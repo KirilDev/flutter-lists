@@ -1,2 +1,2 @@
-# The Flutter Lists Widgets
-Here I leave a list of what I learned from the official Flutter documentation.
+# The Flutter Lists Widgets App
+Flutter Application with list that I learned from Flutter Docs
